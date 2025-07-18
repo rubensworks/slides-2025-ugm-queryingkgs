@@ -1,4 +1,4 @@
-# Slides for Data %VENUE_NAME% Software Engineering, Universitas Gadjah Mada, Indonesia on An Introduction to Querying over Knowledge Graphs on the Web
+# Slides for Data & Software Engineering, Universitas Gadjah Mada, Indonesia on An Introduction to Querying over Knowledge Graphs on the Web
 [![Build Status](https://github.com/rubensworks/slides-2025-ugm-queryingkgs/workflows/Build%20and%20Deploy/badge.svg)](https://rubensworks.github.io/slides-2025-ugm-queryingkgs/)
 
 **Live version: https://rubensworks.github.io/slides-2025-ugm-queryingkgs/**
